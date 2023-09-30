@@ -1,15 +1,20 @@
 # A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators
 
-A curated list of papers on "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators"
+A curated list of papers on "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators" ([Paper link](https://arxiv.org/abs/XXX))
 
 Online misinformation poses a global risk with significant real-world consequences. To combat misinformation, current research relies on professionals like journalists and fact-checkers for annotating and debunking false information, while also developing automated machine learning methods for detecting misinformation. Complementary to these approaches, recent research has increasingly concentrated on utilizing the power of ordinary social media users, a.k.a. “the crowd”, who act as eyes-on-the-ground proactively questioning and countering misinformation. Notably, recent studies show that 96% of counter-misinformation responses originate from them. Acknowledging their prominent role, we present the first systematic and comprehensive survey of research papers that actively leverage the crowds to combat misinformation. 
 
-In this survey, we first identify 88 papers related to crowd-based efforts, following a meticulous annotation process adhering to the PRISMA framework (preferred reporting items for systematic reviews and meta-analyses). We then present key statistics related to misinformation, counter-misinformation, and crowd input in different formats and topics. Upon holistic analysis of the papers, we introduce a novel taxonomy of the roles played by the crowds in combating misinformation: (i) crowds as annotators who actively identify misinformation; (ii) crowds as evaluators who assess counter-misinformation effectiveness; (iii) crowds as creators who create counter-misinformation. This taxonomy explores the crowd’s capabilities in misinformation detection, identifies the prerequisites for effective counter-misinformation, and analyzes crowd-generated counter-misinformation. In each assigned role, we conduct a detailed analysis to categorize the specific utilization of the crowd. Particularly, we delve into (i) distinguishing individual, collaborative, and machine-assisted labeling for annotators; (ii) analyzing the effectiveness of counter-misinformation through surveys, interviews, and in-lab experiments for evaluators; and (iii) characterizing creation patterns and creator profiles for creators. Finally, we conclude this survey by outlining potential avenues for future research in this field.
+In this survey, we first identify 88 papers related to crowd-based efforts, following a meticulous annotation process adhering to the PRISMA framework (preferred reporting items for systematic reviews and meta-analyses). We then present key statistics related to misinformation, counter-misinformation, and crowd input in different formats and topics. Upon holistic analysis of the papers, we introduce a novel taxonomy of the roles played by the crowds in combating misinformation: (i) crowds as annotators who actively identify misinformation; (ii) crowds as evaluators who assess counter-misinformation effectiveness; (iii) crowds as creators who create counter-misinformation. 
+<img src="./assests/crowd_role_visual.jpg" alt=""/>  
 
-## Citation
-```
+This taxonomy explores the crowd’s capabilities in misinformation detection, identifies the prerequisites for effective counter-misinformation, and analyzes crowd-generated counter-misinformation. In each assigned role, we conduct a detailed analysis to categorize the specific utilization of the crowd. Particularly, we delve into (i) distinguishing individual, collaborative, and machine-assisted labeling for annotators; (ii) analyzing the effectiveness of counter-misinformation through surveys, interviews, and in-lab experiments for evaluators; and (iii) characterizing creation patterns and creator profiles for creators. Finally, we conclude this survey by outlining potential avenues for future research in this field.
 
- ```
+
+<img src="./assests/taxonomy.jpg" alt="" />
+
+
+
+## References
 
 ## 2022
 | Title                                                                                                                                                       | Category   |   Year | Venue                                                                                          | Publisher                                            | URL                                                                  |
