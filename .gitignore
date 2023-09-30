@@ -1,0 +1,6 @@
+# ignore the folder or programs and raw_files
+
+/programs
+/raw_files
+
+.DS_Store
