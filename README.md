@@ -1,6 +1,18 @@
 # A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators
 
-A curated list of papers on "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators" ([Paper link](https://arxiv.org/abs/XXX))
+A curated list of papers on "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators" ([Paper link](https://arxiv.org/abs/2310.02095))
+
+
+## Citation
+```
+ @article{he2023survey,
+  title={A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators},
+  author={He, Bing and Hu, Yibo and Lee, Yeon-Chang and Oh, Soyoung and Verma, Gaurav and Kumar, Srijan},
+  journal={arXiv preprint arXiv:2310.02095},
+  year={2023}
+}
+ ```
+
 
 Online misinformation poses a global risk with significant real-world consequences. To combat misinformation, current research relies on professionals like journalists and fact-checkers for annotating and debunking false information, while also developing automated machine learning methods for detecting misinformation. Complementary to these approaches, recent research has increasingly concentrated on utilizing the power of ordinary social media users, a.k.a. “the crowd”, who act as eyes-on-the-ground proactively questioning and countering misinformation. Notably, recent studies show that 96% of counter-misinformation responses originate from them. Acknowledging their prominent role, we present the first systematic and comprehensive survey of research papers that actively leverage the crowds to combat misinformation. 
 
