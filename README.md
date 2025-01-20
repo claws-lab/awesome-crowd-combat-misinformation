@@ -5,11 +5,15 @@ A curated list of papers on "A Survey on the Role of Crowds in Combating Online 
 
 ## Citation
 ```
- @article{he2023survey,
-  title={A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators},
+@article{he2024survey,
+  title={A survey on the role of crowds in combating online misinformation: Annotators, evaluators, and creators},
   author={He, Bing and Hu, Yibo and Lee, Yeon-Chang and Oh, Soyoung and Verma, Gaurav and Kumar, Srijan},
-  journal={arXiv preprint arXiv:2310.02095},
-  year={2023}
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={19},
+  number={1},
+  pages={1--30},
+  year={2024},
+  publisher={ACM New York, NY}
 }
  ```
 
